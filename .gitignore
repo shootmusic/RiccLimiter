@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+captured_data/
+screenshots/
+*.exe
+*.zip
